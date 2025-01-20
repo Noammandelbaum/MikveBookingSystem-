@@ -2,6 +2,12 @@
 
 **MikveBookingSystem** is a web application developed to record and manage the usage of Mikve (ritual bath) services. Users log their visits to the Mikve through the system, ensuring accurate tracking and streamlined service reporting.
 
+## Preview
+
+Below is a screenshot of the Mikve usage logging interface:
+
+![MikveBookingSystem Screenshot](./assets/mikve_logging_screen.jpg)
+
 ## Features
 
 - **User Authentication**: Secure user registration and login.
